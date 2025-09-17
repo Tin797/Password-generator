@@ -10,7 +10,7 @@ body {
     height: 550px;
 }
 #ft-line{
-    color: rgb(149, 0, 0);
+    color: red;
 }
 #text-el{
     color: rgb(230, 230, 230);
